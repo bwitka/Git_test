@@ -1,0 +1,1 @@
+This is NOT Beau's first Git project. I'm simply following along and adding text to the README.
